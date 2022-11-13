@@ -1,0 +1,27 @@
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "cook"
+<<<
+> branch you
+<<<
+>rm wug.txt
+<<<
+>commit "bro"
+<<<
+> status
+=== Branches ===
+*master
+you
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
